@@ -5,6 +5,6 @@ const items = require('items')
 
 function main() {
     const myInventory = inventory(self)
-    myInventory.add( items.bucket(1) )
+    myInventory.add( items.fireball(64) )
 
 }
