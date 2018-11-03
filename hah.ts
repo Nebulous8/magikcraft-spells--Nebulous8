@@ -5,7 +5,7 @@ const items = require('items')
 
 function main() {
     const myInventory = inventory(self)
-    myInventory.add( items.bucket(64) )
+    myInventory.add( items.waterBucket(64) )
 
 
 }
