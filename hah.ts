@@ -5,6 +5,7 @@ const items = require('items')
 
 function main() {
     const myInventory = inventory(self)
-    myInventory.add( items.diamondBlock(999))
+    myInventory.add( items.bucket(64) )
+
 
 }
