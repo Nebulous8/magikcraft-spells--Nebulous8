@@ -8,6 +8,6 @@ function main() {
     myInventory.add( items.bucket(64) )
     myInventory.add( items.diamondSword(1))
     myInventory.add( items.diamondPickaxe(1))
-    myInventory.add( items.diamondBlock(1))
+    myInventory.add( items.diamondBlock(64))
 
 }
