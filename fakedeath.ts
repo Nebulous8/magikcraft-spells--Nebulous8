@@ -1,4 +1,5 @@
 const magik = magikcraft.io
 
-magik.dixit('MrNebulaSquid fell out of the world.')
-
+function main(name) {
+  magik.dixit('MrNebulaSquid was killed by ' + name)
+}
