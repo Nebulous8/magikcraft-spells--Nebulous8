@@ -1,1 +1,7 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0RqEllIU_OU" frameborder="0" allowfullscreen></iframe>
+
+const magik = magikcraft.io;
+
+function _fb(n=10) {
+    magik.doNTimes(()=> magik.infierno(), n, 300);
+    magik.dixit('FIREBALLZ!!');
+}
