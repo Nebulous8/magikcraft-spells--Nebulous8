@@ -1,5 +1,5 @@
 const magik = magikcraft.io;
 
 function main() {
-    magik.exsultus(30)
+    magik.exsultus(300000)
 }
