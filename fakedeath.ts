@@ -1,4 +1,3 @@
-
 const magik = magikcraft.io;
 
 function _fb(n=10) {
